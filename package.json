@@ -1,0 +1,34 @@
+{
+  "name": "boxkeep",
+  "version": "1.0.0",
+  "description": "本项目是纯前端家庭收纳管理页，基于 IndexedDB 本地保存收纳盒信息，支持筛选排序、拖拽调整、批量标记、复制盒子、异常检测、常用物品清单与 JSON 导出，帮助快速恢复和查找物品。",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makabaka-boop/boxkeep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makabaka-boop/boxkeep/issues"
+  },
+  "homepage": "https://github.com/makabaka-boop/boxkeep#readme",
+  "dependencies": {
+    "@dnd-kit/core": "^6.3.1",
+    "@dnd-kit/sortable": "^10.0.0",
+    "@dnd-kit/utilities": "^3.2.2",
+    "idb": "^8.0.3",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.4",
+    "vite": "^8.1.5"
+  }
+}
