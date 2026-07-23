@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/db.ts","./src/main.tsx","./src/types.ts","./src/validation.ts","./src/vite-env.d.ts","./src/components/anomalybanner.tsx","./src/components/batchbar.tsx","./src/components/boxcard.tsx","./src/components/boxform.tsx","./src/components/commonitemsview.tsx","./src/components/filterbar.tsx"],"version":"5.9.3"}
