@@ -1,0 +1,23 @@
+{
+  "name": "boxkeep",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "纯前端家庭收纳盒内容整理页，离线可用，数据保存在 IndexedDB，支持导出 JSON",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}

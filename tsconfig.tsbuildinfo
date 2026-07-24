@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/db.ts","./src/exchange.ts","./src/logic.ts","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/boxcard.tsx","./src/components/boxeditor.tsx","./src/components/bulkbar.tsx","./src/components/commonitemsview.tsx","./src/components/filterbar.tsx","./src/components/issuepanel.tsx"],"version":"5.9.3"}
